@@ -1,5 +1,5 @@
 {
-  "name": "license-uncategorized",
+  "name": "@brettz9/license-uncategorized",
   "version": "0.1.0",
   "description": "Just a test repo with a \"Blah\" (non-SPDX) license in `package.json`.",
   "main": "index.js",
